@@ -1,0 +1,11 @@
+INFO 2025-07-30 19:49:45,294 autoreload Watching for file changes with StatReloader
+WARNING 2025-07-30 19:49:59,002 log Not Found: /
+WARNING 2025-07-30 19:49:59,241 log Not Found: /favicon.ico
+WARNING 2025-07-30 19:50:07,420 log Unauthorized: /api/
+WARNING 2025-07-30 19:50:11,596 log Unauthorized: /api/
+WARNING 2025-07-30 19:50:44,612 log Not Found: /
+WARNING 2025-07-30 19:50:58,455 log Method Not Allowed: /api/auth/login/
+INFO 2025-07-30 19:55:49,307 autoreload C:\Users\Sagar Nanera\Desktop\audit_trail_project\audit_trail\settings.py changed, reloading.
+INFO 2025-07-30 19:55:51,051 autoreload Watching for file changes with StatReloader
+INFO 2025-07-30 20:34:53,164 autoreload Watching for file changes with StatReloader
+INFO 2025-07-30 20:47:47,954 autoreload Watching for file changes with StatReloader
